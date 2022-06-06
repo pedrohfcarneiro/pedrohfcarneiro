@@ -1,6 +1,8 @@
-## Hello there! I'm Pedro Henrique, an indie game dev and web developer 👽
+## Hello there! 
 
+I'm Pedro Henrique, an indie game dev and web developer 👽
 
+Currently i'm working mainly with Web Development and general algorithms study-driven projects.
 
 <div align="center">
   <a href="https://github.com/pedrohfcarneiro">
