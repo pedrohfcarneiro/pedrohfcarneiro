@@ -8,7 +8,11 @@ Currently i'm working mainly with Web Development and general algorithms study-d
 <p align="center">
   <img src="https://github.com/pedrohfcarneiro/pedrohfcarneiro/blob/main/giphy.gif" alt="animated" />
 </p>
-
+<div align="center">
+  <a href="https://github.com/pedrohfcarneiro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohfcarneiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohfcarneiro&layout=compact&langs_count=10&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="ph-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
