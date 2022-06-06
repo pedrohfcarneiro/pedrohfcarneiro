@@ -4,6 +4,8 @@ I'm Pedro Henrique, an indie game dev and web developer 👽
 
 Currently i'm working mainly with Web Development and general algorithms study-driven projects.
 
+#
+![](https://github.com/pedrohfcarneiro/giphy.gif)
 <div align="center">
   <a href="https://github.com/pedrohfcarneiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohfcarneiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,6 +21,7 @@ Currently i'm working mainly with Web Development and general algorithms study-d
   <img align="center" alt="ph-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="ph-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="ph-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  
 </div>
   
 ##
