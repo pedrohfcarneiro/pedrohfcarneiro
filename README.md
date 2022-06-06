@@ -5,7 +5,9 @@ I'm Pedro Henrique, an indie game dev and web developer 👽
 Currently i'm working mainly with Web Development and general algorithms study-driven projects.
 
 #
-![](https://github.com/pedrohfcarneiro/pedrohfcarneiro/blob/main/giphy.gif)
+<p align="center">
+  <img src="https://github.com/pedrohfcarneiro/pedrohfcarneiro/blob/main/giphy.gif" alt="animated" />
+</p>
 <div align="center">
   <a href="https://github.com/pedrohfcarneiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrohfcarneiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
