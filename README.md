@@ -4,7 +4,7 @@ I'm Pedro Henrique, an indie game dev and web developer 👽
 
 Currently i'm working mainly with Web Development and general algorithms study-driven projects.
 
-#
+
 <p align="center">
   <img src="https://github.com/pedrohfcarneiro/pedrohfcarneiro/blob/main/giphy.gif" alt="animated" />
 </p>
