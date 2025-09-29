@@ -1,8 +1,8 @@
 ## Hello there! 
 
-I'm Pedro Henrique, an indie game dev and web developer 👽
+I'm Pedro Henrique, a Game Programmer 👽
 
-Currently i'm working mainly with Web Development and general algorithms study-driven projects.
+Currently i'm working mainly with Gameplay Programming but i've been doing a lot of engine and graphics programming as well as learning some webdev
 
 
 <p align="center">
