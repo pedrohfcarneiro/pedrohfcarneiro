@@ -1,6 +1,6 @@
 ## Hello there! 
 
-I'm Pedro Henrique, a Game Programmer 👽
+I'm Pedro Henrique, a Game Dev 👽
 
 Currently i'm working mainly with Gameplay Programming but i've been doing a lot of engine and graphics programming as well as learning some webdev
 
